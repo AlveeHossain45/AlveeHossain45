@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#ffffff" opacity="0.05"/>
+    </pattern>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2f81f7" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#2f81f7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect width="1280" height="320" fill="#0d1117"/>
+  <rect width="1280" height="320" fill="url(#dots)"/>
+  <rect x="0" y="0" width="1280" height="3" fill="url(#edge)"/>
+
+  <!-- left: identity -->
+  <text x="72" y="148" font-size="58" font-weight="600" fill="#e6edf3">Alvee Hossain</text>
+  <rect x="74" y="176" width="64" height="3" fill="#2f81f7"/>
+  <text x="72" y="216" font-size="20" letter-spacing="6" fill="#8b949e">FULL-STACK DEVELOPER</text>
+  <text x="72" y="256" font-size="16" fill="#6e7681">React · Node.js · TypeScript · Python — Uttara, Dhaka, Bangladesh</text>
+
+  <!-- right: code motif -->
+  <g font-family="Cascadia Code, Consolas, monospace" font-size="16" opacity="0.85">
+    <text x="760" y="88" fill="#8b949e">{</text>
+    <text x="784" y="120" fill="#79c0ff">role<tspan fill="#8b949e">: </tspan><tspan fill="#7ee787">"Full-Stack Developer"</tspan><tspan fill="#8b949e">,</tspan></text>
+    <text x="784" y="152" fill="#79c0ff">stack<tspan fill="#8b949e">: [</tspan><tspan fill="#7ee787">"React"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#7ee787">"Node.js"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#7ee787">"Python"</tspan><tspan fill="#8b949e">],</tspan></text>
+    <text x="784" y="184" fill="#79c0ff">focus<tspan fill="#8b949e">: </tspan><tspan fill="#7ee787">"web apps &amp; clean UI"</tspan><tspan fill="#8b949e">,</tspan></text>
+    <text x="784" y="216" fill="#79c0ff">research<tspan fill="#8b949e">: </tspan><tspan fill="#7ee787">"zero-day detection"</tspan></text>
+    <text x="760" y="248" fill="#8b949e">}</text>
+  </g>
+
+  <!-- separator -->
+  <line x1="716" y1="64" x2="716" y2="256" stroke="#21262d" stroke-width="1"/>
+
+  <!-- footer chip -->
+  <text x="72" y="296" font-size="14" fill="#484f58" font-family="Cascadia Code, Consolas, monospace">github.com/AlveeHossain45</text>
+</svg>
