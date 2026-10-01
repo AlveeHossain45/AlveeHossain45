@@ -50,43 +50,45 @@ I'm a 4th-year Computer Science &amp; Engineering student and full-stack develop
 
 ---
 
-## Featured Projects
+### 🚀 Featured Projects
 
-### [NovaAI](https://github.com/AlveeHossain45/AI)
+#### UU Student Hub
 
-Full-stack AI answer engine with retrieval-augmented generation, web search, document ingestion and multi-provider AI support — every answer is grounded and cited.
+All-in-one student platform for Uttara University students — authentication, dashboard, weekly routine, assignments, exams, CGPA calculator, notices and an AI study assistant.
 
-`React` `Express` `Prisma` `PostgreSQL` `pgvector`
+`React` `TypeScript` `Tailwind CSS` `Express` `SQLite`
 
-### [Yusuf Flower Mills — Production &amp; Delivery Management](https://github.com/AlveeHossain45/food-company-website)
+[GitHub](https://github.com/AlveeHossain45/UU-Student-Hub) · [Live Demo](https://uustudenthub.netlify.app/)
 
-Full-stack production, stock and delivery platform with JWT authentication, role-based dashboards and a 67-check API test suite.
+#### E-Commerce Platform
 
-`React` `Express` `PostgreSQL` `JWT` · [Live demo](https://food-company-website-e7vk.vercel.app)
+Responsive storefront and admin UI — product catalog with search and filtering, cart, checkout, authentication and an admin panel, with a ready-to-use REST API client layer.
 
-### [UU Student Hub](https://github.com/AlveeHossain45/UU-Student-Hub)
+`React` `Vite` `Tailwind CSS` `React Router` `Framer Motion`
 
-All-in-one student platform for Uttara University — auth, dashboard, routine, assignments, exams, CGPA calculator, notices and an AI study assistant.
+[GitHub](https://github.com/AlveeHossain45/Ecommerce-Platform) · [Live Demo](https://ultrashopbd.netlify.app/)
 
-`React` `Express` `SQLite` `TypeScript` `Tailwind CSS`
+#### Eduverse Pro
 
-### [Inventory Management System](https://github.com/AlveeHossain45/aicinventory)
-
-Inventory, sales, purchases, customers, suppliers and reporting with Google Sign-In and Google Sheets as the data layer.
-
-`React` `Vite` `ApexCharts` `Google OAuth` · [Live demo](https://alveehossain45.github.io/aicinventory/)
-
-### [Ecommerce Platform](https://github.com/AlveeHossain45/Ecommerce-Platform)
-
-Storefront and admin UI — catalog with filtering and search, cart, checkout, authentication and an admin panel, as a complete React frontend ready to connect to a real API.
+Student management system with role-based portals for administrators, teachers, students and accountants.
 
 `React` `Vite` `Tailwind CSS` `React Router`
 
-### [Ransomware Detection Dashboard](https://github.com/AlveeHossain45/ransomware-detection-dashboard)
+[GitHub](https://github.com/AlveeHossain45/EduVerse-Pro) · [Live Demo](https://eduversepro.netlify.app/)
 
-Security operations dashboard — threat monitoring, quarantine center, attack timeline, file activity logs and analytics, built around my zero-day detection research interest.
+#### EduSays Basic
 
-`React` `Recharts` `Framer Motion` `Tailwind CSS`
+School management system project.
+
+[GitHub](https://github.com/AlveeHossain45/Edusysbasic)
+
+#### Student Management System
+
+EduPortal — role-based platform for managing students, teachers, attendance, fees, exams and library records, with an Express backend, MongoDB and JWT authentication.
+
+`JavaScript` `Tailwind CSS` `Chart.js` `Express` `MongoDB` `JWT`
+
+[GitHub](https://github.com/AlveeHossain45/alveeweb) · [Live Demo](https://alveeweb.netlify.app/)
 
 ---
 
