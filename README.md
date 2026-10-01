@@ -76,11 +76,13 @@ Student management system with role-based portals for administrators, teachers, 
 
 [GitHub](https://github.com/AlveeHossain45/EduVerse-Pro) · [Live Demo](https://eduversepro.netlify.app/)
 
-#### EduSays Basic
+#### YFMStock
 
-School management system project.
+Full-stack production, stock and delivery management platform for Yusuf Flower Mills — role-based dashboards, JWT authentication and a 67-check API test suite.
 
-[GitHub](https://github.com/AlveeHossain45/Edusysbasic)
+`React` `Vite` `Express` `PostgreSQL` `JWT`
+
+[GitHub](https://github.com/AlveeHossain45/food-company-website) · [Live Demo](https://yfmstock.netlify.app/)
 
 #### Student Management System
 
